@@ -165,6 +165,7 @@
 - [Nextjs Woocommerce](https://github.com/w3bdesign/nextjs-woocommerce) - Next.js headless eCommerce site with Typescript,  WooCommerce backend and Algolia search.
 - [Nextjs Shopify](https://github.com/BuilderIO/nextjs-shopify) - The ultimate starter for headless Shopify stores
 - [Crystallize Nextjs Boilerplate](https://github.com/CrystallizeAPI/crystallize-nextjs-boilerplate) - Fully featured Next.js / React eCommerce boilerplate. Combine rich marketing content with product information to create highly converting online stores.
+- [Next.js E-commerce App with Admin (OneEntry)](https://github.com/ONEENTRY-PLATFORM/nextjs-shop-demo) - Headless e-commerce demo built with Next.js and OneEntry backend (catalog, pages, users, attributes, cart/checkout flow).
 
 ## Blog
 
