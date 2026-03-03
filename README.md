@@ -107,6 +107,7 @@
 - [Shark Chat Js](https://github.com/fuma-nama/shark-chat-js) - Modern Chat App written in Next.js.
 - [Airbnb Yt](https://github.com/ski043/airbnb-yt) - Airbnb Clone created with Next.js 14, Kinde, Supabase, Prisma and Tailwind.
 - [Airbnb Clone](https://github.com/sudeepmahato16/airbnb-clone) - A Full Stack Airbnb Clone built with Next js.
+- [CiteMe](https://citeme.app) - AI-powered academic citation generator built with Next.js 14. Searches 11+ databases and formats references in 40+ citation styles. Features App Router, Supabase auth, and Paddle billing.
 
 ## Tools
 
