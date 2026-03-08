@@ -107,6 +107,7 @@
 - [Shark Chat Js](https://github.com/fuma-nama/shark-chat-js) - Modern Chat App written in Next.js.
 - [Airbnb Yt](https://github.com/ski043/airbnb-yt) - Airbnb Clone created with Next.js 14, Kinde, Supabase, Prisma and Tailwind.
 - [Airbnb Clone](https://github.com/sudeepmahato16/airbnb-clone) - A Full Stack Airbnb Clone built with Next js.
+- [Pharos AI](https://github.com/Juliusolsson05/pharos-ai) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive maps, OSINT feeds, and actor dossiers.
 
 ## Tools
 
