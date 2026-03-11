@@ -107,6 +107,7 @@
 - [Shark Chat Js](https://github.com/fuma-nama/shark-chat-js) - Modern Chat App written in Next.js.
 - [Airbnb Yt](https://github.com/ski043/airbnb-yt) - Airbnb Clone created with Next.js 14, Kinde, Supabase, Prisma and Tailwind.
 - [Airbnb Clone](https://github.com/sudeepmahato16/airbnb-clone) - A Full Stack Airbnb Clone built with Next js.
+- [Xquik](https://xquik.com) - All-in-one X (Twitter) automation platform with 40+ tools, REST API, MCP server & HMAC webhooks. Built with Next.js 16, shadcn/ui, PostgreSQL + Drizzle ORM, Stripe, and next-intl i18n.
 
 ## Tools
 
