@@ -72,6 +72,7 @@
 - [AI Content](https://github.com/nooqta/ai-content) - An AI Power content generator based on Next.js starter for Contentlayer that includes Tailwind CSS, MDX, and TypeScript.
 - [DocMind](https://github.com/PiotrWarzachowski/DocMind) - Open source AI pdf summary maker as next.js app.
 - [Nextjs Image Editor](https://github.com/Reflow-HQ/nextjs-image-editor) - AI image editor app built with Next.js and DALL-E.
+- [Shadcn Space MCP](https://github.com/shadcnspace/shadcnspace-mcp) - Connect Cursor, Claude Code, Antigravity, VS Code, and other AI tools to the Shadcn Space component registry.
 
 ## SaaS
 
@@ -148,6 +149,7 @@
 - [Langui](https://github.com/LangbaseInc/langui) - Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 - [Nextjs Auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
 - [Kinde Auth Nextjs](https://github.com/kinde-oss/kinde-auth-nextjs) - Kinde NextJS SDK - authentication for server rendered apps.
+- [Shadcn Space](https://github.com/shadcnspace/shadcnspace) - A collection of beautifully designed, accessible, and composable free Shadcn UI blocks, components, and templates for your React/Next.js apps.
 
 ## E Commerce
 
