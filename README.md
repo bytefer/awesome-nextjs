@@ -208,3 +208,4 @@ Thanks goes to all these wonderful people:
 <a href="https://github.com/bytefer/awesome-nextjs/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=bytefer/awesome-nextjs" />
 </a>
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Breaking API change detection built with Next.js 15. AST analysis + AI auto-fix.
