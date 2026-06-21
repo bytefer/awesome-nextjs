@@ -136,6 +136,7 @@
 - [Supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [Prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB.
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications.
+- [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) - Self-hosted headless CMS with REST API v1 (42 endpoints) + HMAC webhooks, built to power Next.js frontends. [integration guide](https://unfoldcms.com/unfoldcms-nextjs-integration)
 - [Payload](https://github.com/payloadcms/payload) - Payload is the first-ever Next.js native CMS that can install directly in your existing /app folder. It's the start of a new era for headless CMS.
 - [Drizzle Orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno.
 - [Nextui](https://github.com/nextui-org/nextui) - Beautiful, fast and modern React UI library.
