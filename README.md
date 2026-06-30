@@ -186,6 +186,7 @@
 - [Next Portfolio Dev](https://github.com/smakosh/next-portfolio-dev) - A portfolio for developers.
 - [Nextjs Chakra Ui Portfolio Template](https://github.com/imadatyatalah/nextjs-chakra-ui-portfolio-template) - Next.js & Chakra-UI portfolio template.
 - [NextMotion](https://github.com/yoyocharlie/nextMotion) - An open-source portfolio template.
+- [Free Next.js CV Template](https://github.com/cekuu35/free-nextjs-cv-template) - A free, MIT-licensed personal portfolio & CV template built with Next.js 15 and Tailwind CSS.
 
 ## Landing Page
 
