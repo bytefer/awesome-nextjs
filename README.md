@@ -191,6 +191,7 @@
 
 - [Nextly Template](https://github.com/web3templates/nextly-template) - Nextly Landing Page Template built with Next.js & TailwindCSS.
 - [Shadcn Landing Page](https://github.com/nobruf/shadcn-landing-page) - Nextjs + Shadcn + TypeScript + Tailwind. Landing page template ease-to-use.
+- [Next.js Tailwind Website Templates](https://github.com/cekuu35/nextjs-tailwind-website-templates) - Collection of production-ready multi-page website templates built with Next.js App Router, Tailwind CSS and TypeScript, with live demos.
 
 ## Docs
 
