@@ -81,6 +81,7 @@
 - [Next Saas Starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [Saas Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - Built with Next.js and Tailwind CSS, and the modular UI components of Shadcn UI. This Next.js SaaS Template helps you to quickly build and launch SaaS with minimal effort.
 - [Saas Starter Kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate.
+- [ShipAI.today](https://shipai.today/) - Production-ready Next.js AI SaaS starter with auth, billing, and orchestration.
 - [Cloudflare Saas Stack](https://github.com/Dhravya/cloudflare-saas-stack) - An opinionated, batteries-included starter kit for quickly building and deploying SaaS products on Cloudflare. This is a Next.js project bootstrapped with c3.
 - [Saasfly](https://github.com/saasfly/saasfly) - An easy-to-use and enterprise-grade Next.js boilerplate.
 - [Next Saas Stripe Starter](https://github.com/mickasmt/next-saas-stripe-starter) - Open-source SaaS Starter with User Roles & Admin Panel. Built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions.
