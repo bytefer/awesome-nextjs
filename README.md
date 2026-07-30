@@ -130,6 +130,7 @@
 - [Next Sanity](https://github.com/sanity-io/next-sanity) - Sanity.io toolkit for Next.js.
 - [Cookies Next](https://github.com/andreizanik/cookies-next) - Getting, setting and removing cookies on both client and server with next.js.
 - [NextStep](https://github.com/enszrlu/NextStep) - Lightweight onboarding library for Next.js.
+- [GuardLayer](https://www.guardlayer.io) - Free static security scanner for Next.js + Supabase apps that flags exposed keys, missing RLS, over-permissive policies, and unprotected routes, with the exact fix.
 
 ## Integrated
 
