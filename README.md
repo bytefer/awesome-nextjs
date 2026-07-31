@@ -92,6 +92,7 @@
 - [Hikari](https://github.com/antoineross/Hikari) - A complete & open source Nextjs.14, Stripe and Supabase SaaS Starter Template using App Router.
 - [Firestarta](https://github.com/uixmat/firestarta) - Next.js SaaS boilerplate with NextAuth, Prisma, Supabase, Shadcn/ui & Lemon Squeezy Subscriptions.
 - [Next Money](https://github.com/virgoone/next-money) - Empower your next project with the stack of Next.js 14, Prisma, Supabase, Clerk Auth, Resend, React Email, Shadcn/ui, and Stripe.
+- [MailKite SaaS Starter](https://github.com/mailkite/saas-startup) - Production-ready Next.js 15 SaaS starter with self-contained auth (Google/GitHub OAuth + email/password — no auth vendor), Stripe subscriptions, teams, Postgres/Drizzle, and a dark-first shadcn/ui dashboard.
 
 ## App
 
