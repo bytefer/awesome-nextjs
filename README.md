@@ -198,6 +198,10 @@
 - [Renoun](https://github.com/souporserious/renoun) - Documentation that matches the quality of your product.
 - [Opendocs](https://github.com/daltonmenezes/opendocs) - Next.js beautifully designed template that you can use for your projects for free with site, blog and docs support. Accessible. Customizable. Open Source with i18n support.
 
+## Security
+
+- [OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) - A deliberately vulnerable e-commerce app built with the Next.js App Router, React, TypeScript and Prisma. 36 CTF challenges across web, API, auth, business logic, crypto, supply chain and AI/MCP, including real CVEs against this stack, each with a walkthrough explaining the vulnerability and its fix.
+
 ## Contributing
 
 Discover something fantastic, like a package, article, blog, video, or any other valuable resource? Feel free to contribute by sending a pull request! Your participation is highly appreciated. Thank you! ❤️
