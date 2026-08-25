@@ -107,6 +107,7 @@
 - [Shark Chat Js](https://github.com/fuma-nama/shark-chat-js) - Modern Chat App written in Next.js.
 - [Airbnb Yt](https://github.com/ski043/airbnb-yt) - Airbnb Clone created with Next.js 14, Kinde, Supabase, Prisma and Tailwind.
 - [Airbnb Clone](https://github.com/sudeepmahato16/airbnb-clone) - A Full Stack Airbnb Clone built with Next js.
+- [Lunidex](https://github.com/teefloo/Lunidex) - Open-source Pokémon workspace built with Next.js, with a Pokédex, TCG collection tracker, team builder, battle tools, quizzes, and multilingual support.
 
 ## Tools
 
