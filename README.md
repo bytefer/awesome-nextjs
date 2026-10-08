@@ -44,6 +44,7 @@
 - [Modelfusion Ollama Nextjs Starter](https://github.com/lgrammel/modelfusion-ollama-nextjs-starter) - Starter examples for using Next.js and the Vercel AI SDK with Ollama and ModelFusion.
 - [Supa Next Shad Auth](https://github.com/Sahil-Sharma-23/supa-next-shad-auth) - Next.js + Supabase Auth starter template with shadcn-UI and Tailwind CSS.
 - [Nextjs Starter Kit](https://github.com/datocms/nextjs-starter-kit) - This project aims to be a great starting point for your Next.js projects that need to interact with DatoCMS.
+- [OneTwoAgent Next.js Support Starter](https://github.com/One-Two-Agent-LLC/nextjs-ai-customer-support-starter) - MIT App Router integration example for signed-in customer support, scoped read-only account data, and human handoff; requires the OneTwoAgent hosted service.
 
 ## AI
 
