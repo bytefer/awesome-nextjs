@@ -150,6 +150,9 @@
 - [Nextjs Auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
 - [Kinde Auth Nextjs](https://github.com/kinde-oss/kinde-auth-nextjs) - Kinde NextJS SDK - authentication for server rendered apps.
 - [Billing SDK](https://github.com/dodopayments/billingsdk) - Type-safe React billing and subscription components (pricing tables, usage meters, plan upgrade flows) built with Tailwind CSS and shadcn/ui.
+- [Shadcn Dashboard](https://github.com/shadcndashboard/shadcndashboard) - Build an admin panel better with the complete shadcn dashboard kit
+- [Tailwindadmin](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) - Open-Source React Tailwind Admin Dashboard Template with Shadcn
+- [Shadcn Space](https://github.com/shadcnspace/shadcnspace) - Open-Source React Tailwind Admin Dashboard Template with Shadcn
 
 ## E Commerce
 
