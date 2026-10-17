@@ -100,6 +100,7 @@
 - [Zoom Clone](https://github.com/adrianhajdin/zoom-clone) - Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.
 - [Flatdraw](https://github.com/diogocapela/flatdraw) - A simple canvas drawing web app with responsive UI. Made with TypeScript, React, and Next.js.
 - [Nextjs Billing](https://github.com/lmsqueezy/nextjs-billing) - Next.js billing app with Lemon Squeezy.
+- [AgentaOS Next.js Starter](https://github.com/AgentaOS/agentaos-nextjs-starter) - Next.js starter with Better Auth and AgentaOS checkout, subscriptions and merchant-of-record billing.
 - [Next Music Player](https://github.com/leerob/next-music-player) - A blazing fast, information dense media player built with Next.js.
 - [Next Email Client](https://github.com/leerob/next-email-client) - An email client built with the Next.js App Router and Postgres.
 - [Airbnb Build](https://github.com/SashenJayathilaka/Airbnb-Build) - Full Stack Airbnb Clone with Next.js 13 Tailwind-css, Prisma, MongoDB, NextAuth, Framer-motionSocial, Login, Image upload, Cloudinary CDN, Location selection, Map component, Country autocomplete, Fetching listings with server components.
