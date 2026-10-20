@@ -78,6 +78,7 @@
 - [Taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [Nextjs Subscription Payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
 - [Next Enterprise](https://github.com/Blazity/next-enterprise) - An enterprise-grade Next.js boilerplate for high-performance, maintainable apps.
+- [DevFlow](https://github.com/Abderrahim-Allaoui/devflow) - A production-ready kanban SaaS in Next.js 15: JWT auth, boards, tasks, drag & drop, Prisma, PostgreSQL, Docker and a green CI pipeline.
 - [Next Saas Starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [Saas Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - Built with Next.js and Tailwind CSS, and the modular UI components of Shadcn UI. This Next.js SaaS Template helps you to quickly build and launch SaaS with minimal effort.
 - [Saas Starter Kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate.
