@@ -107,6 +107,7 @@
 - [Shark Chat Js](https://github.com/fuma-nama/shark-chat-js) - Modern Chat App written in Next.js.
 - [Airbnb Yt](https://github.com/ski043/airbnb-yt) - Airbnb Clone created with Next.js 14, Kinde, Supabase, Prisma and Tailwind.
 - [Airbnb Clone](https://github.com/sudeepmahato16/airbnb-clone) - A Full Stack Airbnb Clone built with Next js.
+- [Next.js Waitlist](https://github.com/Sid-Lais/nextjs-waitlist-double-opt-in) - Waitlist app with double opt-in, a referral queue and a bulk launch email, built with Next.js, TypeScript, Drizzle and SQLite.
 
 ## Tools
 
