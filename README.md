@@ -192,6 +192,8 @@
 - [Nextly Template](https://github.com/web3templates/nextly-template) - Nextly Landing Page Template built with Next.js & TailwindCSS.
 - [Shadcn Landing Page](https://github.com/nobruf/shadcn-landing-page) - Nextjs + Shadcn + TypeScript + Tailwind. Landing page template ease-to-use.
 
+- [Next.js WebGL Templates](https://github.com/somnathraz/nextjs-webgl-templates) - MIT-licensed Next.js App Router templates with React Three Fiber, GPU simulations, and scroll-driven 3D product pages. [Live gallery](https://demo.somanathkhadanga.com).
+
 ## Docs
 
 - [Fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js. Alternative to Nextra.
