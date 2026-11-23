@@ -128,6 +128,7 @@
 - [Onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
 .
 - [Next Sanity](https://github.com/sanity-io/next-sanity) - Sanity.io toolkit for Next.js.
+- [Next.js Nonce CSP & Security Headers Builder](https://zcoldwater.github.io/vibeshield-cli/nextjs-nonce-csp-builder.html) - Free interactive CSP AST grader and Next.js `middleware.ts` generator for per-request cryptographic nonces, `'strict-dynamic'`, and 10/10 Mozilla Observatory security headers.
 - [Cookies Next](https://github.com/andreizanik/cookies-next) - Getting, setting and removing cookies on both client and server with next.js.
 - [NextStep](https://github.com/enszrlu/NextStep) - Lightweight onboarding library for Next.js.
 
