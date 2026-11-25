@@ -130,6 +130,7 @@
 - [Next Sanity](https://github.com/sanity-io/next-sanity) - Sanity.io toolkit for Next.js.
 - [Cookies Next](https://github.com/andreizanik/cookies-next) - Getting, setting and removing cookies on both client and server with next.js.
 - [NextStep](https://github.com/enszrlu/NextStep) - Lightweight onboarding library for Next.js.
+- [WebDecoy for Next.js](https://github.com/WebDecoy/node/tree/main/packages/nextjs) - Inspect bot-rule decisions in Next.js before enabling enforcement.
 
 ## Integrated
 
