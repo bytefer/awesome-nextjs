@@ -107,6 +107,7 @@
 - [Shark Chat Js](https://github.com/fuma-nama/shark-chat-js) - Modern Chat App written in Next.js.
 - [Airbnb Yt](https://github.com/ski043/airbnb-yt) - Airbnb Clone created with Next.js 14, Kinde, Supabase, Prisma and Tailwind.
 - [Airbnb Clone](https://github.com/sudeepmahato16/airbnb-clone) - A Full Stack Airbnb Clone built with Next js.
+- [FCaptcha Contact Form](https://github.com/WebDecoy/FCaptcha/tree/v1.51.4/examples/nextjs) - A Next.js App Router example that checks a self-hosted CAPTCHA token in a route handler before accepting a contact form.
 
 ## Tools
 
